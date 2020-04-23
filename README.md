@@ -15,9 +15,3 @@ Computes the convex hull from a set of given points using Graham Scan.
 ![alt text](https://i.imgur.com/ZLyroTi.png)
 
 
-
-To Do Someday:
-
--implement different hull algorithms
-
--code refactoring
